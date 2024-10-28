@@ -11,6 +11,6 @@ Me chamo Larissa, sou graduanda em Engenharia da Computação pela Universidade 
 - LinkedIn: https://www.linkedin.com/in/larissarpasilva/
 
 ## Projetos
-
+[Salas](https://github.com/larissarsilva/salas): FrontEnd
   
 
